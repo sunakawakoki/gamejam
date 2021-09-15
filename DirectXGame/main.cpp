@@ -908,8 +908,46 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 
         float clearColor[] = { 0.1f,0.25f, 0.5f,0.0f }; // 青っぽい
 
-        
-        
+        const int cycle = 60;
+        counter++;
+        counter %= cycle;
+        //float scale = sinf(XM_2PI * (float)counter / cycle);
+        //scale += 1.0f;
+        //scale /= 2.0f;
+        //const float min_value = 2.0f;
+        //const float max_value = 5.0f;
+
+        //scale = min_value + (max_value - min_value) * scale;
+
+        ////float scale = (float)counter / cycle;
+        //object3ds[0].scale = { scale,scale,scale };
+
+
+        //①
+       /* float rot = 180 * (float)counter / cycle;
+
+        object3ds[0].rotation.y = rot;
+        */
+
+        //②
+       /*  float scale = XM_2PI * (float)counter / cycle;
+        scale += 1.0f;
+        scale /= 2.0f;
+        const float min_value = 0.1f;
+        const float max_value = 2.0f;
+        scale = min_value + (max_value - min_value) * scale;
+        object3ds[0].scale = { scale,scale,scale };*/
+
+        //③
+        /*float pos = 150 * (float)counter / cycle;
+        pos -= 75;
+        object3ds[0].position.x = pos;*/
+
+        ////④
+        //float rot = sinf(180* (float)counter);
+        //rot += 1.0f;
+        //rot /= 2.0f;
+        //object3ds[0].rotation.y = rot;
 
 
         if (key[DIK_SPACE])     // スペースキーが押されていたら
