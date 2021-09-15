@@ -1,0 +1,2 @@
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.lib
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXTex\Bin\Desktop_2019_Win10\x64\Debug\DirectXTex.pdb

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(361,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(362,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(363,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(364,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(366,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(367,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(368,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(369,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(869,33): warning C4101: 'gpuDescHandle0': ローカル変数は 1 度も使われていません。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(870,33): warning C4101: 'gpuDescHandle1': ローカル変数は 1 度も使われていません。
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\DirectXGame\main.cpp(871,33): warning C4101: 'gpuDescHandle2': ローカル変数は 1 度も使われていません。
+  DirectXGame.vcxproj -> C:\Users\sunak\Desktop\03_04. 頂点インデックス\x64\Debug\DirectXGame.exe

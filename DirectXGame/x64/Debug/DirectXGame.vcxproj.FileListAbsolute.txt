@@ -1,0 +1,2 @@
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\x64\Debug\BasicPS.cso
+C:\Users\sunak\Desktop\03_04. 頂点インデックス\x64\Debug\BasicVS.cso
